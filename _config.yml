@@ -14,7 +14,9 @@ author:
   url: #yoururl
 permalink: pretty
 
-baseurl: "metadados-bncc"
+baseurl: /metadados-bncc
+
+url: https://monteirovj.github.io/
 
 highlighter: none
 
