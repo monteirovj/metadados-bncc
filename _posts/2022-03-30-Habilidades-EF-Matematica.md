@@ -1,0 +1,999 @@
+---
+layout: post
+title: EF - Habilidades de Matemática
+description:
+summary: 
+---
+<table style="border-collapse: collapse;">
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF01MA01</th>
+        <td>Utilizar números naturais como indicador de quantidade ou de ordem em diferentes situações cotidianas e reconhecer situações em que os números não indicam contagem nem ordem, mas sim código de identificação.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF01MA02</th>
+        <td>Contar de maneira exata ou aproximada, utilizando diferentes estratégias como o pareamento e outros agrupamentos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF01MA03</th>
+        <td>Estimar e comparar quantidades de objetos de dois conjuntos (em torno de 20 elementos), por estimativa e/ou por correspondência (um a um, dois a dois) para indicar “tem mais”, “tem menos” ou “tem a mesma quantidade”.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF01MA04</th>
+        <td>Contar a quantidade de objetos de coleções até 100 unidades e apresentar o resultado por registros verbais e simbólicos, em situações de seu interesse, como jogos, brincadeiras, materiais da sala de aula, entre outros.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF01MA05</th>
+        <td>Comparar números naturais de até duas ordens em situações cotidianas, com e sem suporte da reta numérica.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF01MA06</th>
+        <td>Construir fatos básicos da adição e utilizá-los em procedimentos de cálculo para resolver problemas.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF01MA07</th>
+        <td>Compor e decompor número de até duas ordens, por meio de diferentes adições, com o suporte de material manipulável, contribuindo para a compreensão de características do sistema de numeração decimal e o desenvolvimento de estratégias de cálculo.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF01MA08</th>
+        <td>Resolver e elaborar problemas de adição e de subtração, envolvendo números de até dois algarismos, com os significados de juntar, acrescentar, separar e retirar, com o suporte de imagens e/ou material manipulável, utilizando estratégias e formas de registro pessoais.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF01MA09</th>
+        <td>Organizar e ordenar objetos familiares ou representações por figuras, por meio de atributos, tais como cor, forma e medida.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF01MA10</th>
+        <td>Descrever, após o reconhecimento e a explicitação de um padrão (ou regularidade), os elementos ausentes em sequências recursivas de números naturais, objetos ou figuras.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF01MA11</th>
+        <td>Descrever a localização de pessoas e de objetos no espaço em relação à sua própria posição, utilizando termos como à direita, à esquerda, em frente, atrás.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF01MA12</th>
+        <td>Descrever a localização de pessoas e de objetos no espaço segundo um dado ponto de referência, compreendendo que, para a utilização de termos que se referem à posição, como direita, esquerda, em cima, em baixo, é necessário explicitar-se o referencial.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF01MA13</th>
+        <td>Relacionar figuras geométricas espaciais (cones, cilindros, esferas e blocos retangulares) a objetos familiares do mundo físico.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF01MA14</th>
+        <td>Identificar e nomear figuras planas (círculo, quadrado, retângulo e triângulo) em desenhos apresentados em diferentes disposições ou em contornos de faces de sólidos geométricos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF01MA15</th>
+        <td>Comparar comprimentos, capacidades ou massas, utilizando termos como mais alto, mais baixo, mais comprido, mais curto, mais grosso, mais fino, mais largo, mais pesado, mais leve, cabe mais, cabe menos, entre outros, para ordenar objetos de uso cotidiano.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF01MA16</th>
+        <td>Relatar em linguagem verbal ou não verbal sequência de acontecimentos relativos a um dia, utilizando, quando possível, os horários dos eventos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF01MA17</th>
+        <td>Reconhecer e relacionar períodos do dia, dias da semana e meses do ano, utilizando calendário, quando necessário.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF01MA18</th>
+        <td>Produzir a escrita de uma data, apresentando o dia, o mês e o ano, e indicar o dia da semana de uma data, consultando calendários.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF01MA19</th>
+        <td>Reconhecer e relacionar valores de moedas e cédulas do sistema monetário brasileiro para resolver situações simples do cotidiano do estudante.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF01MA20</th>
+        <td>Classificar eventos envolvendo o acaso, tais como “acontecerá com certeza”, “talvez aconteça” e “é impossível acontecer”, em situações do cotidiano.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF01MA21</th>
+        <td>Ler dados expressos em tabelas e em gráficos de colunas simples.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF01MA22</th>
+        <td>Realizar pesquisa, envolvendo até duas variáveis categóricas de seu interesse e universo de até 30 elementos, e organizar dados por meio de representações pessoais.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF02MA01</th>
+        <td>Comparar e ordenar números naturais (até a ordem de centenas) pela compreensão de características do sistema de numeração decimal (valor posicional e função do zero).</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF02MA02</th>
+        <td>Fazer estimativas por meio de estratégias diversas a respeito da quantidade de objetos de coleções e registrar o resultado da contagem desses objetos (até 1000 unidades).</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF02MA03</th>
+        <td>Comparar quantidades de objetos de dois conjuntos, por estimativa e/ou por correspondência (um a um, dois a dois, entre outros), para indicar “tem mais”, “tem menos” ou “tem a mesma quantidade”, indicando, quando for o caso, quantos a mais e quantos a menos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF02MA04</th>
+        <td>Compor e decompor números naturais de até três ordens, com suporte de material manipulável, por meio de diferentes adições.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF02MA05</th>
+        <td>Construir fatos básicos da adição e subtração e utilizá-los no cálculo mental ou escrito.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF02MA06</th>
+        <td>Resolver e elaborar problemas de adição e de subtração, envolvendo números de até três ordens, com os significados de juntar, acrescentar, separar, retirar, utilizando estratégias pessoais ou convencionais.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF02MA07</th>
+        <td>Resolver e elaborar problemas de multiplicação (por 2, 3, 4 e 5) com a ideia de adição de parcelas iguais por meio de estratégias e formas de registro pessoais, utilizando ou não suporte de imagens e/ou material manipulável.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF02MA08</th>
+        <td>Resolver e elaborar problemas envolvendo dobro, metade, triplo e terça parte, com o suporte de imagens ou material manipulável, utilizando estratégias pessoais.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF02MA09</th>
+        <td>Construir sequências de números naturais em ordem crescente ou decrescente a partir de um número qualquer, utilizando uma regularidade estabelecida.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF02MA10</th>
+        <td>Descrever um padrão (ou regularidade) de sequências repetitivas e de sequências recursivas, por meio de palavras, símbolos ou desenhos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF02MA11</th>
+        <td>Descrever os elementos ausentes em sequências repetitivas e em sequências recursivas de números naturais, objetos ou figuras.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF02MA12</th>
+        <td>Identificar e registrar, em linguagem verbal ou não verbal, a localização e os deslocamentos de pessoas e de objetos no espaço, considerando mais de um ponto de referência, e indicar as mudanças de direção e de sentido.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF02MA13</th>
+        <td>Esboçar roteiros a ser seguidos ou plantas de ambientes familiares, assinalando entradas, saídas e alguns pontos de referência.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF02MA14</th>
+        <td>Reconhecer, nomear e comparar figuras geométricas espaciais (cubo, bloco retangular, pirâmide, cone, cilindro e esfera), relacionando-as com objetos do mundo físico.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF02MA15</th>
+        <td>Reconhecer, comparar e nomear figuras planas (círculo, quadrado, retângulo e triângulo), por meio de características comuns, em desenhos apresentados em diferentes disposições ou em sólidos geométricos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF02MA16</th>
+        <td>Estimar, medir e comparar comprimentos de lados de salas (incluindo contorno) e de polígonos, utilizando unidades de medida não padronizadas e padronizadas (metro, centímetro e milímetro) e instrumentos adequados.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF02MA17</th>
+        <td>Estimar, medir e comparar capacidade e massa, utilizando estratégias pessoais e unidades de medida não padronizadas ou padronizadas (litro, mililitro, grama e quilograma).</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF02MA18</th>
+        <td>Indicar a duração de intervalos de tempo entre duas datas, como dias da semana e meses do ano, utilizando calendário, para planejamentos e organização de agenda.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF02MA19</th>
+        <td>Medir a duração de um intervalo de tempo por meio de relógio digital e registrar o horário do início e do fim do intervalo.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF02MA20</th>
+        <td>Estabelecer a equivalência de valores entre moedas e cédulas do sistema monetário brasileiro para resolver situações cotidianas.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF02MA21</th>
+        <td>Classificar resultados de eventos cotidianos aleatórios como “pouco prováveis”, “muito prováveis”, “improváveis” e “impossíveis”.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF02MA22</th>
+        <td>Comparar informações de pesquisas apresentadas por meio de tabelas de dupla entrada e em gráficos de colunas simples ou barras, para melhor compreender aspectos da realidade próxima.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF02MA23</th>
+        <td>Realizar pesquisa em universo de até 30 elementos, escolhendo até três variáveis categóricas de seu interesse, organizando os dados coletados em listas, tabelas e gráficos de colunas simples.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA01</th>
+        <td>Ler, escrever e comparar números naturais de até a ordem de unidade de milhar, estabelecendo relações entre os registros numéricos e em língua materna.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA02</th>
+        <td>Identificar características do sistema de numeração decimal, utilizando a composição e a decomposição de número natural de até quatro ordens.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA03</th>
+        <td>Construir e utilizar fatos básicos da adição e da multiplicação para o cálculo mental ou escrito.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA04</th>
+        <td>Estabelecer a relação entre números naturais e pontos da reta numérica para utilizá-la na ordenação dos números naturais e também na construção de fatos da adição e da subtração, relacionando-os com deslocamentos para a direita ou para a esquerda.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA05</th>
+        <td>Utilizar diferentes procedimentos de cálculo mental e escrito para resolver problemas significativos envolvendo adição e subtração com números naturais.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA06</th>
+        <td>Resolver e elaborar problemas de adição e subtração com os significados de juntar, acrescentar, separar, retirar, comparar e completar quantidades, utilizando diferentes estratégias de cálculo exato ou aproximado, incluindo cálculo mental.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA07</th>
+        <td>Resolver e elaborar problemas de multiplicação (por 2, 3, 4, 5 e 10) com os significados de adição de parcelas iguais e elementos apresentados em disposição retangular, utilizando diferentes estratégias de cálculo e registros.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA08</th>
+        <td>Resolver e elaborar problemas de divisão de um número natural por outro (até 10), com resto zero e com resto diferente de zero, com os significados de repartição equitativa e de medida, por meio de estratégias e registros pessoais.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA09</th>
+        <td>Associar o quociente de uma divisão com resto zero de um número natural por 2, 3, 4, 5 e 10 às ideias de metade, terça, quarta, quinta e décima partes.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA10</th>
+        <td>Identificar regularidades em sequências ordenadas de números naturais, resultantes da realização de adições ou subtrações sucessivas, por um mesmo número, descrever uma regra de formação da sequência e determinar elementos faltantes ou seguintes.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA11</th>
+        <td>Compreender a ideia de igualdade para escrever diferentes sentenças de adições ou de subtrações de dois números naturais que resultem na mesma soma ou diferença.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA12</th>
+        <td>Descrever e representar, por meio de esboços de trajetos ou utilizando croquis e maquetes, a movimentação de pessoas ou de objetos no espaço, incluindo mudanças de direção e sentido, com base em diferentes pontos de referência.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA13</th>
+        <td>Associar figuras geométricas espaciais (cubo, bloco retangular, pirâmide, cone, cilindro e esfera) a objetos do mundo físico e nomear essas figuras.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA14</th>
+        <td>Descrever características de algumas figuras geométricas espaciais (prismas retos, pirâmides, cilindros, cones), relacionando-as com suas planificações.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA15</th>
+        <td>Classificar e comparar figuras planas (triângulo, quadrado, retângulo, trapézio e paralelogramo) em relação a seus lados (quantidade, posições relativas e comprimento) e vértices.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA16</th>
+        <td>Reconhecer figuras congruentes, usando sobreposição e desenhos em malhas quadriculadas ou triangulares, incluindo o uso de tecnologias digitais.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA17</th>
+        <td>Reconhecer que o resultado de uma medida depende da unidade de medida utilizada.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA18</th>
+        <td>Escolher a unidade de medida e o instrumento mais apropriado para medições de comprimento, tempo e capacidade.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA19</th>
+        <td>Estimar, medir e comparar comprimentos, utilizando unidades de medida não padronizadas e padronizadas mais usuais (metro, centímetro e milímetro) e diversos instrumentos de medida.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA20</th>
+        <td>Estimar e medir capacidade e massa, utilizando unidades de medida não padronizadas e padronizadas mais usuais (litro, mililitro, quilograma, grama e miligrama), reconhecendo-as em leitura de rótulos e embalagens, entre outros.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA21</th>
+        <td>Comparar, visualmente ou por superposição, áreas de faces de objetos, de figuras planas ou de desenhos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA22</th>
+        <td>Ler e registrar medidas e intervalos de tempo, utilizando relógios (analógico e digital) para informar os horários de início e término de realização de uma atividade e sua duração.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA23</th>
+        <td>Ler horas em relógios digitais e em relógios analógicos e reconhecer a relação entre hora e minutos e entre minuto e segundos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA24</th>
+        <td>Resolver e elaborar problemas que envolvam a comparação e a equivalência de valores monetários do sistema brasileiro em situações de compra, venda e troca.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA25</th>
+        <td>Identificar, em eventos familiares aleatórios, todos os resultados possíveis, estimando os que têm maiores ou menores chances de ocorrência.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA26</th>
+        <td>Resolver problemas cujos dados estão apresentados em tabelas de dupla entrada, gráficos de barras ou de colunas.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA27</th>
+        <td>Ler, interpretar e comparar dados apresentados em tabelas de dupla entrada, gráficos de barras ou de colunas, envolvendo resultados de pesquisas significativas, utilizando termos como maior e menor frequência, apropriando-se desse tipo de linguagem para compreender aspectos da realidade sociocultural significativos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF03MA28</th>
+        <td>Realizar pesquisa envolvendo variáveis categóricas em um universo de até 50 elementos, organizar os dados coletados utilizando listas, tabelas simples ou de dupla entrada e representá-los em gráficos de colunas simples, com e sem uso de tecnologias digitais.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA01</th>
+        <td>Ler, escrever e ordenar números naturais até a ordem de dezenas de milhar.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA02</th>
+        <td>Mostrar, por decomposição e composição, que todo número natural pode ser escrito por meio de adições e multiplicações por potências de dez, para compreender o sistema de numeração decimal e desenvolver estratégias de cálculo.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA03</th>
+        <td>Resolver e elaborar problemas com números naturais envolvendo adição e subtração, utilizando estratégias diversas, como cálculo, cálculo mental e algoritmos, além de fazer estimativas do resultado.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA04</th>
+        <td>Utilizar as relações entre adição e subtração, bem como entre multiplicação e divisão, para ampliar as estratégias de cálculo.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA05</th>
+        <td>Utilizar as propriedades das operações para desenvolver estratégias de cálculo.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA06</th>
+        <td>Resolver e elaborar problemas envolvendo diferentes significados da multiplicação (adição de parcelas iguais, organização retangular e proporcionalidade), utilizando estratégias diversas, como cálculo por estimativa, cálculo mental e algoritmos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA07</th>
+        <td>Resolver e elaborar problemas de divisão cujo divisor tenha no máximo dois algarismos, envolvendo os significados de repartição equitativa e de medida, utilizando estratégias diversas, como cálculo por estimativa, cálculo mental e algoritmos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA08</th>
+        <td>Resolver, com o suporte de imagem e/ou material manipulável, problemas simples de contagem, como a determinação do número de agrupamentos possíveis ao se combinar cada elemento de uma coleção com todos os elementos de outra, utilizando estratégias e formas de registro pessoais.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA09</th>
+        <td>Reconhecer as frações unitárias mais usuais (1/2, 1/3, 1/4, 1/5, 1/10 e 1/100) como unidades de medida menores do que uma unidade, utilizando a reta numérica como recurso.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA10</th>
+        <td>Reconhecer que as regras do sistema de numeração decimal podem ser estendidas para a representação decimal de um número racional e relacionar décimos e centésimos com a representação do sistema monetário brasileiro.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA11</th>
+        <td>Identificar regularidades em sequências numéricas compostas por múltiplos de um número natural.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA12</th>
+        <td>Reconhecer, por meio de investigações, que há grupos de números naturais para os quais as divisões por um determinado número resultam em restos iguais, identificando regularidades.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA13</th>
+        <td>Reconhecer, por meio de investigações, utilizando a calculadora quando necessário, as relações inversas entre as operações de adição e de subtração e de multiplicação e de divisão, para aplicá-las na resolução de problemas.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA14</th>
+        <td>Reconhecer e mostrar, por meio de exemplos, que a relação de igualdade existente entre dois termos permanece quando se adiciona ou se subtrai um mesmo número a cada um desses termos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA15</th>
+        <td>Determinar o número desconhecido que torna verdadeira uma igualdade que envolve as operações fundamentais com números naturais.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA16</th>
+        <td>Descrever deslocamentos e localização de pessoas e de objetos no espaço, por meio de malhas quadriculadas e representações como desenhos, mapas, planta baixa e croquis, empregando termos como direita e esquerda, mudanças de direção e sentido, intersecção, transversais, paralelas e perpendiculares.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA17</th>
+        <td>Associar prismas e pirâmides a suas planificações e analisar, nomear e comparar seus atributos, estabelecendo relações entre as representações planas e espaciais.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA18</th>
+        <td>Reconhecer ângulos retos e não retos em figuras poligonais com o uso de dobraduras, esquadros ou softwares de geometria.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA19</th>
+        <td>Reconhecer simetria de reflexão em figuras e em pares de figuras geométricas planas e utilizá-la na construção de figuras congruentes, com o uso de malhas quadriculadas e de softwares de geometria.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA20</th>
+        <td>Medir e estimar comprimentos (incluindo perímetros), massas e capacidades, utilizando unidades de medida padronizadas mais usuais, valorizando e respeitando a cultura local.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA21</th>
+        <td>Medir, comparar e estimar área de figuras planas desenhadas em malha quadriculada, pela contagem dos quadradinhos ou de metades de quadradinho, reconhecendo que duas figuras com formatos diferentes podem ter a mesma medida de área.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA22</th>
+        <td>Ler e registrar medidas e intervalos de tempo em horas, minutos e segundos em situações relacionadas ao seu cotidiano, como informar os horários de início e término de realização de uma tarefa e sua duração.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA23</th>
+        <td>Reconhecer temperatura como grandeza e o grau Celsius como unidade de medida a ela associada e utilizá-lo em comparações de temperaturas em diferentes regiões do Brasil ou no exterior ou, ainda, em discussões que envolvam problemas relacionados ao aquecimento global.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA24</th>
+        <td>Registrar as temperaturas máxima e mínima diárias, em locais do seu cotidiano, e elaborar gráficos de colunas com as variações diárias da temperatura, utilizando, inclusive, planilhas eletrônicas.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA25</th>
+        <td>Resolver e elaborar problemas que envolvam situações de compra e venda e formas de pagamento, utilizando termos como troco e desconto, enfatizando o consumo ético, consciente e responsável.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA26</th>
+        <td>Identificar, entre eventos aleatórios cotidianos, aqueles que têm maior chance de ocorrência, reconhecendo características de resultados mais prováveis, sem utilizar frações.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA27</th>
+        <td>Analisar dados apresentados em tabelas simples ou de dupla entrada e em gráficos de colunas ou pictóricos, com base em informações das diferentes áreas do conhecimento, e produzir texto com a síntese de sua análise.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF04MA28</th>
+        <td>Realizar pesquisa envolvendo variáveis categóricas e numéricas e organizar dados coletados por meio de tabelas e gráficos de colunas simples ou agrupadas, com e sem uso de tecnologias digitais.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF05MA01</th>
+        <td>Ler, escrever e ordenar números naturais até a ordem das centenas de milhar com compreensão das principais características do sistema de numeração decimal.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF05MA02</th>
+        <td>Ler, escrever e ordenar números racionais na forma decimal com compreensão das principais características do sistema de numeração decimal, utilizando, como recursos, a composição e decomposição e a reta numérica.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF05MA03</th>
+        <td>Identificar e representar frações (menores e maiores que a unidade), associando-as ao resultado de uma divisão ou à ideia de parte de um todo, utilizando a reta numérica como recurso.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF05MA04</th>
+        <td>Identificar frações equivalentes.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF05MA05</th>
+        <td>Comparar e ordenar números racionais positivos (representações fracionária e decimal), relacionando-os a pontos na reta numérica.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF05MA06</th>
+        <td>Associar as representações 10%, 25%, 50%, 75% e 100% respectivamente à décima parte, quarta parte, metade, três quartos e um inteiro, para calcular porcentagens, utilizando estratégias pessoais, cálculo mental e calculadora, em contextos de educação financeira, entre outros.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF05MA07</th>
+        <td>Resolver e elaborar problemas de adição e subtração com números naturais e com números racionais, cuja representação decimal seja finita, utilizando estratégias diversas, como cálculo por estimativa, cálculo mental e algoritmos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF05MA08</th>
+        <td>Resolver e elaborar problemas de multiplicação e divisão com números naturais e com números racionais cuja representação decimal é finita (com multiplicador natural e divisor natural e diferente de zero), utilizando estratégias diversas, como cálculo por estimativa, cálculo mental e algoritmos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF05MA09</th>
+        <td>Resolver e elaborar problemas simples de contagem envolvendo o princípio multiplicativo, como a determinação do número de agrupamentos possíveis ao se combinar cada elemento de uma coleção com todos os elementos de outra coleção, por meio de diagramas de árvore ou por tabelas.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF05MA10</th>
+        <td>Concluir, por meio de investigações, que a relação de igualdade existente entre dois membros permanece ao adicionar, subtrair, multiplicar ou dividir cada um desses membros por um mesmo número, para construir a noção de equivalência.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF05MA11</th>
+        <td>Resolver e elaborar problemas cuja conversão em sentença matemática seja uma igualdade com uma operação em que um dos termos é desconhecido.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF05MA12</th>
+        <td>Resolver problemas que envolvam variação de proporcionalidade direta entre duas grandezas, para associar a quantidade de um produto ao valor a pagar, alterar as quantidades de ingredientes de receitas, ampliar ou reduzir escala em mapas, entre outros.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF05MA13</th>
+        <td>Resolver problemas envolvendo a partilha de uma quantidade em duas partes desiguais, tais como dividir uma quantidade em duas partes, de modo que uma seja o dobro da outra, com compreensão da ideia de razão entre as partes e delas com o todo.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF05MA14</th>
+        <td>Utilizar e compreender diferentes representações para a localização de objetos no plano, como mapas, células em planilhas eletrônicas e coordenadas geográficas, a fim de desenvolver as primeiras noções de coordenadas cartesianas.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF05MA15</th>
+        <td>Interpretar, descrever e representar a localização ou movimentação de objetos no plano cartesiano (1º quadrante), utilizando coordenadas cartesianas, indicando mudanças de direção e de sentido e giros.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF05MA16</th>
+        <td>Associar figuras espaciais a suas planificações (prismas, pirâmides, cilindros e cones) e analisar, nomear e comparar seus atributos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF05MA17</th>
+        <td>Reconhecer, nomear e comparar polígonos, considerando lados, vértices e ângulos, e desenhá-los, utilizando material de desenho ou tecnologias digitais.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF05MA18</th>
+        <td>Reconhecer a congruência dos ângulos e a proporcionalidade entre os lados correspondentes de figuras poligonais em situações de ampliação e de redução em malhas quadriculadas e usando tecnologias digitais.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF05MA19</th>
+        <td>Resolver e elaborar problemas envolvendo medidas das grandezas comprimento, área, massa, tempo, temperatura e capacidade, recorrendo a transformações entre as unidades mais usuais em contextos socioculturais.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF05MA20</th>
+        <td>Concluir, por meio de investigações, que figuras de perímetros iguais podem ter áreas diferentes e que, também, figuras que têm a mesma área podem ter perímetros diferentes.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF05MA21</th>
+        <td>Reconhecer volume como grandeza associada a sólidos geométricos e medir volumes por meio de empilhamento de cubos, utilizando, preferencialmente, objetos concretos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF05MA22</th>
+        <td>Apresentar todos os possíveis resultados de um experimento aleatório, estimando se esses resultados são igualmente prováveis ou não.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF05MA23</th>
+        <td>Determinar a probabilidade de ocorrência de um resultado em eventos aleatórios, quando todos os resultados possíveis têm a mesma chance de ocorrer (equiprováveis).</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF05MA24</th>
+        <td>Interpretar dados estatísticos apresentados em textos, tabelas e gráficos (colunas ou linhas), referentes a outras áreas do conhecimento ou a outros contextos, como saúde e trânsito, e produzir textos com o objetivo de sintetizar conclusões.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF05MA25</th>
+        <td>Realizar pesquisa envolvendo variáveis categóricas e numéricas, organizar dados coletados por meio de tabelas, gráficos de colunas, pictóricos e de linhas, com e sem uso de tecnologias digitais, e apresentar texto escrito sobre a finalidade da pesquisa e a síntese dos resultados.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA01</th>
+        <td>Comparar, ordenar, ler e escrever números naturais e números racionais cuja representação decimal é finita, fazendo uso da reta numérica.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA02</th>
+        <td>Reconhecer o sistema de numeração decimal, como o que prevaleceu no mundo ocidental, e destacar semelhanças e diferenças com outros sistemas, de modo a sistematizar suas principais características (base, valor posicional e função do zero), utilizando, inclusive, a composição e decomposição de números naturais e números racionais em sua representação decimal.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA03</th>
+        <td>Resolver e elaborar problemas que envolvam cálculos (mentais ou escritos, exatos ou aproximados) com números naturais, por meio de estratégias variadas, com compreensão dos processos neles envolvidos com e sem uso de calculadora.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA04</th>
+        <td>Construir algoritmo em linguagem natural e representá-lo por fluxograma que indique a resolução de um problema simples (por exemplo, se um número natural qualquer é par).</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA05</th>
+        <td>Classificar números naturais em primos e compostos, estabelecer relações entre números, expressas pelos termos “é múltiplo de”, “é divisor de”, “é fator de”, e estabelecer, por meio de investigações, critérios de divisibilidade por 2, 3, 4, 5, 6, 8, 9, 10, 100 e 1000.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA06</th>
+        <td>Resolver e elaborar problemas que envolvam as ideias de múltiplo e de divisor.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA07</th>
+        <td>Compreender, comparar e ordenar frações associadas às ideias de partes de inteiros e resultado de divisão, identificando frações equivalentes.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA08</th>
+        <td>Reconhecer que os números racionais positivos podem ser expressos nas formas fracionária e decimal, estabelecer relações entre essas representações, passando de uma representação para outra, e relacioná-los a pontos na reta numérica.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA09</th>
+        <td>Resolver e elaborar problemas que envolvam o cálculo da fração de uma quantidade e cujo resultado seja um número natural, com e sem uso de calculadora.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA10</th>
+        <td>Resolver e elaborar problemas que envolvam adição ou subtração com números racionais positivos na representação fracionária.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA11</th>
+        <td>Resolver e elaborar problemas com números racionais positivos na representação decimal, envolvendo as quatro operações fundamentais e a potenciação, por meio de estratégias diversas, utilizando estimativas e arredondamentos para verificar a razoabilidade de respostas, com e sem uso de calculadora.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA12</th>
+        <td>Fazer estimativas de quantidades e aproximar números para múltiplos da potência de 10 mais próxima.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA13</th>
+        <td>Resolver e elaborar problemas que envolvam porcentagens, com base na ideia de proporcionalidade, sem fazer uso da “regra de três”, utilizando estratégias pessoais, cálculo mental e calculadora, em contextos de educação financeira, entre outros.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA14</th>
+        <td>Reconhecer que a relação de igualdade matemática não se altera ao adicionar, subtrair, multiplicar ou dividir os seus dois membros por um mesmo número e utilizar essa noção para determinar valores desconhecidos na resolução de problemas.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA15</th>
+        <td>Resolver e elaborar problemas que envolvam a partilha de uma quantidade em duas partes desiguais, envolvendo relações aditivas e multiplicativas, bem como a razão entre as partes e entre uma das partes e o todo.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA16</th>
+        <td>Associar pares ordenados de números a pontos do plano cartesiano do 1º quadrante, em situações como a localização dos vértices de um polígono.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA17</th>
+        <td>Quantificar e estabelecer relações entre o número de vértices, faces e arestas de prismas e pirâmides, em função do seu polígono da base, para resolver problemas e desenvolver a percepção espacial.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA18</th>
+        <td>Reconhecer, nomear e comparar polígonos, considerando lados, vértices e ângulos, e classificá-los em regulares e não regulares, tanto em suas representações no plano como em faces de poliedros.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA19</th>
+        <td>Identificar características dos triângulos e classificá-los em relação às medidas dos lados e dos ângulos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA20</th>
+        <td>Identificar características dos quadriláteros, classificá-los em relação a lados e a ângulos e reconhecer a inclusão e a intersecção de classes entre eles.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA21</th>
+        <td>Construir figuras planas semelhantes em situações de ampliação e de redução, com o uso de malhas quadriculadas, plano cartesiano ou tecnologias digitais.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA22</th>
+        <td>Utilizar instrumentos, como réguas e esquadros, ou softwares para representações de retas paralelas e perpendiculares e construção de quadriláteros, entre outros.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA23</th>
+        <td>Construir algoritmo para resolver situações passo a passo (como na construção de dobraduras ou na indicação de deslocamento de um objeto no plano segundo pontos de referência e distâncias fornecidas etc.).</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA24</th>
+        <td>Resolver e elaborar problemas que envolvam as grandezas comprimento, massa, tempo, temperatura, área (triângulos e retângulos), capacidade e volume (sólidos formados por blocos retangulares), sem uso de fórmulas, inseridos, sempre que possível, em contextos oriundos de situações reais e/ou relacionadas às outras áreas do conhecimento.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA25</th>
+        <td>Reconhecer a abertura do ângulo como grandeza associada às figuras geométricas.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA26</th>
+        <td>Resolver problemas que envolvam a noção de ângulo em diferentes contextos e em situações reais, como ângulo de visão.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA27</th>
+        <td>Determinar medidas da abertura de ângulos, por meio de transferidor e/ou tecnologias digitais.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA28</th>
+        <td>Interpretar, descrever e desenhar plantas baixas simples de residências e vistas aéreas.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA29</th>
+        <td>Analisar e descrever mudanças que ocorrem no perímetro e na área de um quadrado ao se ampliarem ou reduzirem, igualmente, as medidas de seus lados, para compreender que o perímetro é proporcional à medida do lado, o que não ocorre com a área.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA30</th>
+        <td>Calcular a probabilidade de um evento aleatório, expressando-a por número racional (forma fracionária, decimal e percentual) e comparar esse número com a probabilidade obtida por meio de experimentos sucessivos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA31</th>
+        <td>Identificar as variáveis e suas frequências e os elementos constitutivos (título, eixos, legendas, fontes e datas) em diferentes tipos de gráfico.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA32</th>
+        <td>Interpretar e resolver situações que envolvam dados de pesquisas sobre contextos ambientais, sustentabilidade, trânsito, consumo responsável, entre outros, apresentadas pela mídia em tabelas e em diferentes tipos de gráficos e redigir textos escritos com o objetivo de sintetizar conclusões.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA33</th>
+        <td>Planejar e coletar dados de pesquisa referente a práticas sociais escolhidas pelos alunos e fazer uso de planilhas eletrônicas para registro, representação e interpretação das informações, em tabelas, vários tipos de gráficos e texto.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF06MA34</th>
+        <td>Interpretar e desenvolver fluxogramas simples, identificando as relações entre os objetos representados (por exemplo, posição de cidades considerando as estradas que as unem, hierarquia dos funcionários de uma empresa etc.).</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA01</th>
+        <td>Resolver e elaborar problemas com números naturais, envolvendo as noções de divisor e de múltiplo, podendo incluir máximo divisor comum ou mínimo múltiplo comum, por meio de estratégias diversas, sem a aplicação de algoritmos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA02</th>
+        <td>Resolver e elaborar problemas que envolvam porcentagens, como os que lidam com acréscimos e decréscimos simples, utilizando estratégias pessoais, cálculo mental e calculadora, no contexto de educação financeira, entre outros.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA03</th>
+        <td>Comparar e ordenar números inteiros em diferentes contextos, incluindo o histórico, associá-los a pontos da reta numérica e utilizá-los em situações que envolvam adição e subtração.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA04</th>
+        <td>Resolver e elaborar problemas que envolvam operações com números inteiros.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA05</th>
+        <td>Resolver um mesmo problema utilizando diferentes algoritmos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA06</th>
+        <td>Reconhecer que as resoluções de um grupo de problemas que têm a mesma estrutura podem ser obtidas utilizando os mesmos procedimentos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA07</th>
+        <td>Representar por meio de um fluxograma os passos utilizados para resolver um grupo de problemas.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA08</th>
+        <td>Comparar e ordenar frações associadas às ideias de partes de inteiros, resultado da divisão, razão e operador.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA09</th>
+        <td>Utilizar, na resolução de problemas, a associação entre razão e fração, como a fração 2/3 para expressar a razão de duas partes de uma grandeza para três partes da mesma ou três partes de outra grandeza.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA10</th>
+        <td>Comparar e ordenar números racionais em diferentes contextos e associá-los a pontos da reta numérica.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA11</th>
+        <td>Compreender e utilizar a multiplicação e a divisão de números racionais, a relação entre elas e suas propriedades operatórias.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA12</th>
+        <td>Resolver e elaborar problemas que envolvam as operações com números racionais.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA13</th>
+        <td>Compreender a ideia de variável, representada por letra ou símbolo, para expressar relação entre duas grandezas, diferenciando-a da ideia de incógnita.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA14</th>
+        <td>Classificar sequências em recursivas e não recursivas, reconhecendo que o conceito de recursão está presente não apenas na matemática, mas também nas artes e na literatura.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA15</th>
+        <td>Utilizar a simbologia algébrica para expressar regularidades encontradas em sequências numéricas.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA16</th>
+        <td>Reconhecer se duas expressões algébricas obtidas para descrever a regularidade de uma mesma sequência numérica são ou não equivalentes.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA17</th>
+        <td>Resolver e elaborar problemas que envolvam variação de proporcionalidade direta e de proporcionalidade inversa entre duas grandezas, utilizando sentença algébrica para expressar a relação entre elas.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA18</th>
+        <td>Resolver e elaborar problemas que possam ser representados por equações polinomiais de 1º grau, redutíveis à forma ax + b = c, fazendo uso das propriedades da igualdade.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA19</th>
+        <td>Realizar transformações de polígonos representados no plano cartesiano, decorrentes da multiplicação das coordenadas de seus vértices por um número inteiro.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA20</th>
+        <td>Reconhecer e representar, no plano cartesiano, o simétrico de figuras em relação aos eixos e à origem.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA21</th>
+        <td>Reconhecer e construir figuras obtidas por simetrias de translação, rotação e reflexão, usando instrumentos de desenho ou softwares de geometria dinâmica e vincular esse estudo a representações planas de obras de arte, elementos arquitetônicos, entre outros.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA22</th>
+        <td>Construir circunferências, utilizando compasso, reconhecê-las como lugar geométrico e utilizá-las para fazer composições artísticas e resolver problemas que envolvam objetos equidistantes.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA23</th>
+        <td>Verificar relações entre os ângulos formados por retas paralelas cortadas por uma transversal, com e sem uso de softwares de geometria dinâmica.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA24</th>
+        <td>Construir triângulos, usando régua e compasso, reconhecer a condição de existência do triângulo quanto à medida dos lados e verificar que a soma das medidas dos ângulos internos de um triângulo é 180°.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA25</th>
+        <td>Reconhecer a rigidez geométrica dos triângulos e suas aplicações, como na construção de estruturas arquitetônicas (telhados, estruturas metálicas e outras) ou nas artes plásticas.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA26</th>
+        <td>Descrever, por escrito e por meio de um fluxograma, um algoritmo para a construção de um triângulo qualquer, conhecidas as medidas dos três lados.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA27</th>
+        <td>Calcular medidas de ângulos internos de polígonos regulares, sem o uso de fórmulas, e estabelecer relações entre ângulos internos e externos de polígonos, preferencialmente vinculadas à construção de mosaicos e de ladrilhamentos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA28</th>
+        <td>Descrever, por escrito e por meio de um fluxograma, um algoritmo para a construção de um polígono regular (como quadrado e triângulo equilátero), conhecida a medida de seu lado.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA29</th>
+        <td>Resolver e elaborar problemas que envolvam medidas de grandezas inseridos em contextos oriundos de situações cotidianas ou de outras áreas do conhecimento, reconhecendo que toda medida empírica é aproximada.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA30</th>
+        <td>Resolver e elaborar problemas de cálculo de medida do volume de blocos retangulares, envolvendo as unidades usuais (metro cúbico, decímetro cúbico e centímetro cúbico).</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA31</th>
+        <td>Estabelecer expressões de cálculo de área de triângulos e de quadriláteros.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA32</th>
+        <td>Resolver e elaborar problemas de cálculo de medida de área de figuras planas que podem ser decompostas por quadrados, retângulos e/ou triângulos, utilizando a equivalência entre áreas.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA33</th>
+        <td>Estabelecer o número π como a razão entre a medida de uma circunferência e seu diâmetro, para compreender e resolver problemas, inclusive os de natureza histórica.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA34</th>
+        <td>Planejar e realizar experimentos aleatórios ou simulações que envolvem cálculo de probabilidades ou estimativas por meio de frequência de ocorrências.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA35</th>
+        <td>Compreender, em contextos significativos, o significado de média estatística como indicador da tendência de uma pesquisa, calcular seu valor e relacioná-lo, intuitivamente, com a amplitude do conjunto de dados.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA36</th>
+        <td>Planejar e realizar pesquisa envolvendo tema da realidade social, identificando a necessidade de ser censitária ou de usar amostra, e interpretar os dados para comunicá-los por meio de relatório escrito, tabelas e gráficos, com o apoio de planilhas eletrônicas.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF07MA37</th>
+        <td>Interpretar e analisar dados apresentados em gráfico de setores divulgados pela mídia e compreender quando é possível ou conveniente sua utilização.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA01</th>
+        <td>Efetuar cálculos com potências de expoentes inteiros e aplicar esse conhecimento na representação de números em notação científica.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA02</th>
+        <td>Resolver e elaborar problemas usando a relação entre potenciação e radiciação, para representar uma raiz como potência de expoente fracionário.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA03</th>
+        <td>Resolver e elaborar problemas de contagem cuja resolução envolva a aplicação do princípio multiplicativo.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA04</th>
+        <td>Resolver e elaborar problemas, envolvendo cálculo de porcentagens, incluindo o uso de tecnologias digitais.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA05</th>
+        <td>Reconhecer e utilizar procedimentos para a obtenção de uma fração geratriz para uma dízima periódica.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA06</th>
+        <td>Resolver e elaborar problemas que envolvam cálculo do valor numérico de expressões algébricas, utilizando as propriedades das operações.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA07</th>
+        <td>Associar uma equação linear de 1º grau com duas incógnitas a uma reta no plano cartesiano.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA08</th>
+        <td>Resolver e elaborar problemas relacionados ao seu contexto próximo, que possam ser representados por sistemas de equações de 1º grau com duas incógnitas e interpretá-los, utilizando, inclusive, o plano cartesiano como recurso.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA09</th>
+        <td>Resolver e elaborar, com e sem uso de tecnologias, problemas que possam ser representados por equações polinomiais de 2º grau do tipo ax2 = b.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA10</th>
+        <td>Identificar a regularidade de uma sequência numérica ou figural não recursiva e construir um algoritmo por meio de um fluxograma que permita indicar os números ou as figuras seguintes.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA11</th>
+        <td>Identificar a regularidade de uma sequência numérica recursiva e construir um algoritmo por meio de um fluxograma que permita indicar os números seguintes.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA12</th>
+        <td>Identificar a natureza da variação de duas grandezas, diretamente, inversamente proporcionais ou não proporcionais, expressando a relação existente por meio de sentença algébrica e representá-la no plano cartesiano.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA13</th>
+        <td>Resolver e elaborar problemas que envolvam grandezas diretamente ou inversamente proporcionais, por meio de estratégias variadas.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA14</th>
+        <td>Demonstrar propriedades de quadriláteros por meio da identificação da congruência de triângulos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA15</th>
+        <td>Construir, utilizando instrumentos de desenho ou softwares de geometria dinâmica, mediatriz, bissetriz, ângulos de 90°, 60°, 45° e 30° e polígonos regulares.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA16</th>
+        <td>Descrever, por escrito e por meio de um fluxograma, um algoritmo para a construção de um hexágono regular de qualquer área, a partir da medida do ângulo central e da utilização de esquadros e compasso.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA17</th>
+        <td>Aplicar os conceitos de mediatriz e bissetriz como lugares geométricos na resolução de problemas.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA18</th>
+        <td>Reconhecer e construir figuras obtidas por composições de transformações geométricas (translação, reflexão e rotação), com o uso de instrumentos de desenho ou de softwares de geometria dinâmica.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA19</th>
+        <td>Resolver e elaborar problemas que envolvam medidas de área de figuras geométricas, utilizando expressões de cálculo de área (quadriláteros, triângulos e círculos), em situações como determinar medida de terrenos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA20</th>
+        <td>Reconhecer a relação entre um litro e um decímetro cúbico e a relação entre litro e metro cúbico, para resolver problemas de cálculo de capacidade de recipientes.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA21</th>
+        <td>Resolver e elaborar problemas que envolvam o cálculo do volume de recipiente cujo formato é o de um bloco retangular.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA22</th>
+        <td>Calcular a probabilidade de eventos, com base na construção do espaço amostral, utilizando o princípio multiplicativo, e reconhecer que a soma das probabilidades de todos os elementos do espaço amostral é igual a 1.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA23</th>
+        <td>Avaliar a adequação de diferentes tipos de gráficos para representar um conjunto de dados de uma pesquisa.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA24</th>
+        <td>Classificar as frequências de uma variável contínua de uma pesquisa em classes, de modo que resumam os dados de maneira adequada para a tomada de decisões.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA25</th>
+        <td>Obter os valores de medidas de tendência central de uma pesquisa estatística (média, moda e mediana) com a compreensão de seus significados e relacioná-los com a dispersão de dados, indicada pela amplitude.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA26</th>
+        <td>Selecionar razões, de diferentes naturezas (física, ética ou econômica), que justificam a realização de pesquisas amostrais e não censitárias, e reconhecer que a seleção da amostra pode ser feita de diferentes maneiras (amostra casual simples, sistemática e estratificada).</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF08MA27</th>
+        <td>Planejar e executar pesquisa amostral, selecionando uma técnica de amostragem adequada, e escrever relatório que contenha os gráficos apropriados para representar os conjuntos de dados, destacando aspectos como as medidas de tendência central, a amplitude e as conclusões.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF09MA01</th>
+        <td>Reconhecer que, uma vez fixada uma unidade de comprimento, existem segmentos de reta cujo comprimento não é expresso por número racional (como as medidas de diagonais de um polígono e alturas de um triângulo, quando se toma a medida de cada lado como unidade).</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF09MA02</th>
+        <td>Reconhecer um número irracional como um número real cuja representação decimal é infinita e não periódica, e estimar a localização de alguns deles na reta numérica.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF09MA03</th>
+        <td>Efetuar cálculos com números reais, inclusive potências com expoentes fracionários.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF09MA04</th>
+        <td>Resolver e elaborar problemas com números reais, inclusive em notação científica, envolvendo diferentes operações.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF09MA05</th>
+        <td>Resolver e elaborar problemas que envolvam porcentagens, com a ideia de aplicação de percentuais sucessivos e a determinação das taxas percentuais, preferencialmente com o uso de tecnologias digitais, no contexto da educação financeira.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF09MA06</th>
+        <td>Compreender as funções como relações de dependência unívoca entre duas variáveis e suas representações numérica, algébrica e gráfica e utilizar esse conceito para analisar situações que envolvam relações funcionais entre duas variáveis.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF09MA07</th>
+        <td>Resolver problemas que envolvam a razão entre duas grandezas de espécies diferentes, como velocidade e densidade demográfica.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF09MA08</th>
+        <td>Resolver e elaborar problemas que envolvam relações de proporcionalidade direta e inversa entre duas ou mais grandezas, inclusive escalas, divisão em partes proporcionais e taxa de variação, em contextos socioculturais, ambientais e de outras áreas.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF09MA09</th>
+        <td>Compreender os processos de fatoração de expressões algébricas, com base em suas relações com os produtos notáveis, para resolver e elaborar problemas que possam ser representados por equações polinomiais do 2º grau.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF09MA10</th>
+        <td>Demonstrar relações simples entre os ângulos formados por retas paralelas cortadas por uma transversal.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF09MA11</th>
+        <td>Resolver problemas por meio do estabelecimento de relações entre arcos, ângulos centrais e ângulos inscritos na circunferência, fazendo uso, inclusive, de softwares de geometria dinâmica.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF09MA12</th>
+        <td>Reconhecer as condições necessárias e suficientes para que dois triângulos sejam semelhantes.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF09MA13</th>
+        <td>Demonstrar relações métricas do triângulo retângulo, entre elas o teorema de Pitágoras, utilizando, inclusive, a semelhança de triângulos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF09MA14</th>
+        <td>Resolver e elaborar problemas de aplicação do teorema de Pitágoras ou das relações de proporcionalidade envolvendo retas paralelas cortadas por secantes.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF09MA15</th>
+        <td>Descrever, por escrito e por meio de um fluxograma, um algoritmo para a construção de um polígono regular cuja medida do lado é conhecida, utilizando régua e compasso, como também softwares.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF09MA16</th>
+        <td>Determinar o ponto médio de um segmento de reta e a distância entre dois pontos quaisquer, dadas as coordenadas desses pontos no plano cartesiano, sem o uso de fórmulas, e utilizar esse conhecimento para calcular, por exemplo, medidas de perímetros e áreas de figuras planas construídas no plano.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF09MA17</th>
+        <td>Reconhecer vistas ortogonais de figuras espaciais e aplicar esse conhecimento para desenhar objetos em perspectiva.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF09MA18</th>
+        <td>Reconhecer e empregar unidades usadas para expressar medidas muito grandes ou muito pequenas, tais como distância entre planetas e sistemas solares, tamanho de vírus ou de células, capacidade de armazenamento de computadores, entre outros.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF09MA19</th>
+        <td>Resolver e elaborar problemas que envolvam medidas de volumes de prismas e de cilindros retos, inclusive com uso de expressões de cálculo, em situações cotidianas.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF09MA20</th>
+        <td>Reconhecer, em experimentos aleatórios, eventos independentes e dependentes e calcular a probabilidade de sua ocorrência, nos dois casos.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF09MA21</th>
+        <td>Analisar e identificar, em gráficos divulgados pela mídia, os elementos que podem induzir, às vezes propositadamente, erros de leitura, como escalas inapropriadas, legendas não explicitadas corretamente, omissão de informações importantes (fontes e datas), entre outros.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF09MA22</th>
+        <td>Escolher e construir o gráfico mais adequado (colunas, setores, linhas), com ou sem uso de planilhas eletrônicas, para apresentar um determinado conjunto de dados, destacando aspectos como as medidas de tendência central.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+        <th style="width:25%">EF09MA23</th>
+        <td>Planejar e executar pesquisa amostral envolvendo tema da realidade social e comunicar os resultados por meio de relatório contendo avaliação de medidas de tendência central e da amplitude, tabelas e gráficos adequados, construídos com o apoio de planilhas eletrônicas.</td>
+    </tr>
+
+ 
+
+</table>
